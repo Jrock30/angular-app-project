@@ -4,6 +4,8 @@
   - ng new angular-app-project --no-strict
   - cd angular-app-project
   - ng serve
+  - ng generate component {name}, ng g c {name} ( CLI 로 컴포넌트 팩으로 생성 )
+  - ng g c {name}/{name} --skip-tests ( 테스트 파일 생성 X 옵션)
 - Library
   - npm install --save bootstrap@3
     - angular.json -> styles: ["node_modules/bootstrap/dist/css/bootstrap.min.css"] 추가
