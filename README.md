@@ -17,4 +17,4 @@
   - recipe-detail
   - recipe-list
 - shopping-list
-  - shopping-eidt
+  - shopping-edit
